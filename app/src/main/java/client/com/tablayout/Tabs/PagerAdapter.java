@@ -8,9 +8,9 @@ public class PagerAdapter extends FragmentStatePagerAdapter {
 
     int numberoftabs;
 
-    public PagerAdapter(FragmentManager fm, int NumOfTabs) {
+    public PagerAdapter(FragmentManager fm, int numberOfTabs) {
         super(fm);
-        this.numberoftabs = NumOfTabs;
+        this.numberoftabs = numberOfTabs;
     }
 
     @Override
