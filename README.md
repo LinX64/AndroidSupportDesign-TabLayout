@@ -1,3 +1,3 @@
 # AndroidSupportDesign-TabLayout
 
-![demo gif](http://im.ezgif.com/tmp/ezgif-2991150751.gif)
+![demo gif](http://i.stack.imgur.com/9aj2G.gif)
